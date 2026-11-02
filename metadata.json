@@ -1,0 +1,6 @@
+{
+  "name": "Laptop Hub PK",
+  "description": "Professional laptop e-commerce website for Laptop Hub PK featuring quality-checked laptops, detailed specifications, direct WhatsApp inquiries, inventory manager, and nationwide Pakistan delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
